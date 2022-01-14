@@ -1,0 +1,42 @@
+Welcome to EvoClub Tuning Workshop
+Please select your car make:
+[1]:Audi
+[2]:BMW
+[3]:Honda
+[4]:Toyota
+2
+Please select your BMW model:
+[1]:M2
+[2]:M3
+[3]:M4
+[4]:M5
+4
+Your car info:
+BMW M5
+Manufactured Year: 2018
+Engine Tech: V8 8-cylinders, turbocharged
+Engine Code: S63
+Engine Max Output(HP): 600.0
+Engine Max Torque in Nm: 750.0
+Engine Max RPM: 5600.0
+Drivetrain: All Wheel Drive
+Transmission: ZF 8-speed
+Net Weight: 1855.0
+Top Speed in KM/H: 300.0 (Limited)
+Acceleration: 3.4
+
+---------------------------------------------------------------------
+|Stage 2 Tuning Package: Torque Performance                         |
+|Takeda Momentum Cold Air Intake System: 17.0HP, 36.0Nm             |
+|Bladerunner Intercooler Hot and Cold Side: 8.0HP, 13.0Nm           |
+|Wagner Tuning Competition Intercooler Kit: 32.0HP, 53.0Nm          |
+|Takeda Twisted Steel Down-pipe: 36.0HP, 37.0Nm                     |
+|Takeda Stainless Steel Cat-Back Exhaust: 14.0HP, 22.0Nm            |
+|Takeda Twisted Steel Mid-pipe: 15.0HP, 20.0Nm                      |
+|Hondata Flash Pro ECU: 45.0HP, 79.0Nm                              |
+|Total Output: 167.0HP, 260.0Nm                                     |
+---------------------------------------------------------------------
+
+Engine Stats and Data after tuning:
+Tuned Engine Horsepower: 767.0HP
+Tuned Engine Torque: 1010.0Nm
