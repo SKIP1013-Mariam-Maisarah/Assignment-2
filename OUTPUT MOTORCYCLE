@@ -1,0 +1,104 @@
+Welcome to System to Calculate Estimated Service Charge
+______________________________________________________________________________________________
+| Braking problems    | Bad Throttle Response | Vibrations or jerking | High Fuel Consumption|
+|_____________________|_______________________|_______________________|______________________|
+|Item 1: Brake cable  |Item 1: Carburetor     |Item 1: Shock absorber |Item 1: Clutch plates |
+|Item 2: Brake pads   |Item 2: Air filter     |Item 2: Chain sprocket |Item 2: Radials       |
+|Item 3: Brake drums  |Item 3: Fuel filter    |                       |Item 3: Break shoe    |
+|                     |Item 4: Spark plug     |                       |Item 4: Drum          |
+|                     |                       |                       |Item 5: Bearings      |
+|_____________________|_______________________|_______________________|______________________|
+50% off will be given for diagnose with more than two items
+
+Enter model of motorcycle: 
+Yamaha
+ 
+
+Press 1 for Braking Problems
+Press 2 for Bad Throttle Response
+Press 3 for Vibrations or Jerking
+Press 4 for High Fuel Consumption
+Press 0 to exit
+1
+
+Braking Problems
+Quantity of item 1: 1
+Quantity of item 2: 1
+Quantity of item 3: 1
+Price: RM 132.00
+Price after discount: RM 66.00 
+
+Press 1 for Braking Problems
+Press 2 for Bad Throttle Response
+Press 3 for Vibrations or Jerking
+Press 4 for High Fuel Consumption
+Press 0 to exit
+2
+
+
+Bad Throttle Response
+Quantity of item 1: 1
+Quantity of item 2: 1
+Quantity of item 3: 1
+Quantity of item 4: 1
+Price: RM 86.40
+Price after discount: RM 43.20 
+
+Press 1 for Braking Problems
+Press 2 for Bad Throttle Response
+Press 3 for Vibrations or Jerking
+Press 4 for High Fuel Consumption
+Press 0 to exit
+3
+
+
+Vibrations or jerking
+Quantity of item 1: 1
+Quantity of item 2: 1
+Price: RM 101.90 
+
+Press 1 for Braking Problems
+Press 2 for Bad Throttle Response
+Press 3 for Vibrations or Jerking
+Press 4 for High Fuel Consumption
+Press 0 to exit
+4
+
+
+High Fuel Consumption
+Quantity of item 1: 1
+Quantity of item 2: 1
+Quantity of item 3: 1
+Quantity of item 4: 1
+Quantity of item 5: 1
+Price: RM 512.20
+Price after discount: RM 256.10 
+
+Press 1 for Braking Problems
+Press 2 for Bad Throttle Response
+Press 3 for Vibrations or Jerking
+Press 4 for High Fuel Consumption
+Press 0 to exit
+0
+ 
+Please enter details to be contacted: 
+Name: 
+Mariam
+Phone number: 
+0196417818
+Email: 
+maiminsarah@gmail.com
+ 
+SUMMARY OF ORDER
+_________________
+
+Model of motorcycle: Yamaha
+Subtotal: RM 467.20
+SST: RM 46.72
+Final total: RM 513.92
+Grand total: 411.14 
+
+Contact details of customer:
+Name: Mariam
+Phone number: 0196417818
+Email: maiminsarah@gmail.com
