@@ -1,0 +1,312 @@
+// No errors
+
+                                               Welcome to Malaysia Railways                                            
+                                                Purchasing Ticket System!                                                
+-------------------------------------------------------------------------------------------------------------------------
+ 
+Please enter your name: ASYRAAF DANIAL
+Please enter your username: asyraafdanial02
+Please enter your PIN number : 284368
+Welcome back ASYRAAF DANIAL!
+ 
+-------------------------------------------------------------------------------------------------------------------------
+ 
+Where do you want to go, ASYRAAF DANIAL?
+Departure Station: IPOH
+Destination Station: ALOR SETAR
+ 
+You have selected to depart at IPOH Station and arrive at ALOR SETAR Station.
+ 
+-------------------------------------------------------------------------------------------------------------------------
+ 
+                    TICKET PRICE LIST FOR IPOH STATION TO ALOR SETAR STATION (EXCLUSIVE SST)                
+    ________________________________________________________________________________________________________________
+    |                  |                              |          HOT SEAT           |        CAFETERIA SEAT        |
+    |    CATEGORIES    |         NORMAL SEAT          |       (EXTRA LEGROOM)       |       (CAFETERIA COACH)      |
+    |__________________|______________________________|_____________________________|______________________________|
+    |                  |                              |                             |                              |
+    |      ADULT       |           RM42.50            |          RM46.75            |           RM48.88            |
+    |                  |                              |                             |                              |
+    |      CHILD       |           RM38.25            |          RM42.08            |           RM43.99            |
+    |                  |                              |                             |                              |
+    |     STUDENT      |           RM34.00            |          RM37.40            |           RM39.10            |
+    |                  |                              |                             |                              |
+    |     DISABLED     |           RM25.50            |          RM28.05            |           RM29.33            |
+    |                  |                              |                             |                              |
+    |      SENIOR      |           RM29.75            |          RM32.73            |           RM34.21            |
+    |__________________|______________________________|_____________________________|______________________________|
+
+        PLEASE ENTER THE QUANTITY OF TICKETS YOU WANT TO BUY ACCORDING TO THE PASSENGER CATEGORIES AND SEAT TYPES        
+
+ADULT PASSENGER
+NORMAL SEAT: 0
+HOT SEAT: 2
+CAFETERIA SEAT: 0
+
+CHILD PASSENGER
+NORMAL SEAT: 2
+HOT SEAT: 0
+CAFETERIA SEAT: 0
+
+STUDENT PASSENGER
+NORMAL SEAT: 0
+HOT SEAT: 0
+CAFETERIA SEAT: 3
+
+DISABLED PASSENGER
+NORMAL SEAT: 0
+HOT SEAT: 0
+CAFETERIA SEAT: 0
+
+SENIOR PASSENGER
+NORMAL SEAT: 0
+HOT SEAT: 2
+CAFETERIA SEAT: 0
+
+-------------------------------------------------------------------------------------------------------------------------
+ 
+                                                  MALAYSIA RAILWAYS                                                      
+                                            TICKET PURCHASED CONFIRMATION                                                
+-------------------------------------------------------------------------------------------------------------------------
+Name                       : ASYRAAF DANIAL
+Order ID.                  : 301221003
+Date Purchased             : 15/01/2022
+Time Purchased             : 4:30 p.m.
+Payment Method             : Malaysia Railways e-Wallet
+Departure Station          : IPOH Station
+Destination Station        : ALOR SETAR Station
+-------------------------------------------------------------------------------------------------------------------------
+No             Ticket Categories                            Quantity                                   Cost (RM)        
+-------------------------------------------------------------------------------------------------------------------------
+
+1.0            (ADULT PASSENGER)
+1.1            NORMAL SEAT                                     0                                         0.00
+1.2            HOT SEAT                                        2                                         93.50
+1.3            CAFETERIA SEAT                                  0                                         0.00 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+2.0            (CHILD PASSENGER)
+2.1            NORMAL SEAT                                     2                                         76.50
+2.2            HOT SEAT                                        0                                         0.00
+2.3            CAFETERIA SEAT                                  0                                         0.00 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+3.0            (STUDENT PASSENGER)
+3.1            NORMAL SEAT                                     0                                         0.00
+3.2            HOT SEAT                                        0                                         0.00
+3.3            CAFETERIA SEAT                                  3                                         117.30 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+4.0            (DISABLED PASSENGER)
+4.1            NORMAL SEAT                                     0                                         0.00
+4.2            HOT SEAT                                        0                                         0.00
+4.3            CAFETERIA SEAT                                  0                                         0.00 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+5.0            (SENIOR PASSENGER)
+5.1            NORMAL SEAT                                     0                                         0.00
+5.2            HOT SEAT                                        2                                         65.45
+5.3            CAFETERIA SEAT                                  0                                         0.00 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+ Amount                                        :                                                         352.75
+-------------------------------------------------------------------------------------------------------------------------
+
+ Sales and Service Tax (SST)                   :                                                         21.17
+-------------------------------------------------------------------------------------------------------------------------
+
+ Subtotal                                      :                                                         373.92
+-------------------------------------------------------------------------------------------------------------------------
+
+ Malaysia Railways e-Wallet Balance (BEFORE)   :                                                         700.00
+ Malaysia Railways e-Wallet Balance (AFTER)    :                                                         326.09
+-------------------------------------------------------------------------------------------------------------------------
+ 
+                                                    Congratulations!                                                       
+                                           You purchases have been confirmed                                               
+                                       Please be at the station 30 minutes earlier                                         
+                                            Have a nice day ASYRAAF DANIAL!                                             
+
+
+
+// Wrong username/PIN
+                                               Welcome to Malaysia Railways                                            
+                                                Purchasing Ticket System!                                                
+-------------------------------------------------------------------------------------------------------------------------
+ 
+Please enter your name: ASYRAAF DANIAL
+Please enter your username: asyraaf02
+Please enter your PIN number : 123456
+Wrong user name or Pin Number!
+Please enter your username again: asyraafdanial02
+Please enter your PIN number again : 123456
+Wrong user name or Pin Number!
+Please enter your username again: asyraaf123
+Please enter your PIN number again : 284368
+Wrong user name or Pin Number!
+Please enter your username again: danial120
+Please enter your PIN number again : 000000
+Tries exceed limit! You are not allowed to log in!
+
+
+// Stations not available yet
+                                               Welcome to Malaysia Railways                                            
+                                                Purchasing Ticket System!                                                
+-------------------------------------------------------------------------------------------------------------------------
+ 
+Please enter your name: ASYRAAF DANIAL
+Please enter your username: asyraafdanial02
+Please enter your PIN number : 284368
+Welcome back ASYRAAF DANIAL!
+ 
+-------------------------------------------------------------------------------------------------------------------------
+ 
+Where do you want to go, ASYRAAF DANIAL?
+Departure Station: PADANG BESAR
+Destination Station: SUNGAI PETANI
+ 
+You have selected to depart at PADANG BESAR Station and arrive at SUNGAI PETANI Station.
+ 
+-------------------------------------------------------------------------------------------------------------------------
+ 
+                                                           Sorry!                                                              
+                               For the selected station we don't provide the schedule train yet                                
+                                But you can choose another departure and destination station.                                  
+                                                Sorry for the inconvenience!                                                   
+
+
+// Insufficient e-Wallet balance
+                                               Welcome to Malaysia Railways                                            
+                                                Purchasing Ticket System!                                                
+-------------------------------------------------------------------------------------------------------------------------
+ 
+Please enter your name: ASYRAAF DANIAL
+Please enter your username: asyraafdanial02
+Please enter your PIN number : 284368
+Welcome back ASYRAAF DANIAL!
+ 
+-------------------------------------------------------------------------------------------------------------------------
+ 
+Where do you want to go, ASYRAAF DANIAL?
+Departure Station: SUNGAI PETANI
+Destination Station: KL SENTRAL
+ 
+You have selected to depart at SUNGAI PETANI Station and arrive at KL SENTRAL Station.
+ 
+-------------------------------------------------------------------------------------------------------------------------
+ 
+                    TICKET PRICE LIST FOR SUNGAI PETANI STATION TO KL SENTRAL STATION (EXCLUSIVE SST)                
+    ________________________________________________________________________________________________________________
+    |                  |                              |          HOT SEAT           |        CAFETERIA SEAT        |
+    |    CATEGORIES    |         NORMAL SEAT          |       (EXTRA LEGROOM)       |       (CAFETERIA COACH)      |
+    |__________________|______________________________|_____________________________|______________________________|
+    |                  |                              |                             |                              |
+    |      ADULT       |           RM64.50            |          RM70.95            |           RM74.18            |
+    |                  |                              |                             |                              |
+    |      CHILD       |           RM58.05            |          RM63.86            |           RM66.76            |
+    |                  |                              |                             |                              |
+    |     STUDENT      |           RM51.60            |          RM56.76            |           RM59.34            |
+    |                  |                              |                             |                              |
+    |     DISABLED     |           RM38.70            |          RM42.57            |           RM44.51            |
+    |                  |                              |                             |                              |
+    |      SENIOR      |           RM45.15            |          RM49.67            |           RM51.92            |
+    |__________________|______________________________|_____________________________|______________________________|
+
+        PLEASE ENTER THE QUANTITY OF TICKETS YOU WANT TO BUY ACCORDING TO THE PASSENGER CATEGORIES AND SEAT TYPES        
+
+ADULT PASSENGER
+NORMAL SEAT: 0
+HOT SEAT: 10
+CAFETERIA SEAT: 0
+
+CHILD PASSENGER
+NORMAL SEAT: 0
+HOT SEAT: 0
+CAFETERIA SEAT: 0
+
+STUDENT PASSENGER
+NORMAL SEAT: 0
+HOT SEAT: 0
+CAFETERIA SEAT: 0
+
+DISABLED PASSENGER
+NORMAL SEAT: 0
+HOT SEAT: 0
+CAFETERIA SEAT: 0
+
+SENIOR PASSENGER
+NORMAL SEAT: 0
+HOT SEAT: 0
+CAFETERIA SEAT: 0
+
+-------------------------------------------------------------------------------------------------------------------------
+ 
+                                                  MALAYSIA RAILWAYS                                                      
+                                            TICKET PURCHASED CONFIRMATION                                                
+-------------------------------------------------------------------------------------------------------------------------
+Name                       : ASYRAAF DANIAL
+Order ID.                  : 301221003
+Date Purchased             : 15/01/2022
+Time Purchased             : 4:30 p.m.
+Payment Method             : Malaysia Railways e-Wallet
+Departure Station          : SUNGAI PETANI Station
+Destination Station        : KL SENTRAL Station
+-------------------------------------------------------------------------------------------------------------------------
+No             Ticket Categories                            Quantity                                   Cost (RM)        
+-------------------------------------------------------------------------------------------------------------------------
+
+1.0            (ADULT PASSENGER)
+1.1            NORMAL SEAT                                     0                                         0.00
+1.2            HOT SEAT                                       10                                       709.50
+1.3            CAFETERIA SEAT                                  0                                         0.00 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+2.0            (CHILD PASSENGER)
+2.1            NORMAL SEAT                                     0                                         0.00
+2.2            HOT SEAT                                        0                                         0.00
+2.3            CAFETERIA SEAT                                  0                                         0.00 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+3.0            (STUDENT PASSENGER)
+3.1            NORMAL SEAT                                     0                                         0.00
+3.2            HOT SEAT                                        0                                         0.00
+3.3            CAFETERIA SEAT                                  0                                         0.00 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+4.0            (DISABLED PASSENGER)
+4.1            NORMAL SEAT                                     0                                         0.00
+4.2            HOT SEAT                                        0                                         0.00
+4.3            CAFETERIA SEAT                                  0                                         0.00 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+5.0            (SENIOR PASSENGER)
+5.1            NORMAL SEAT                                     0                                         0.00
+5.2            HOT SEAT                                        0                                         0.00
+5.3            CAFETERIA SEAT                                  0                                         0.00 
+
+-------------------------------------------------------------------------------------------------------------------------
+
+ Amount                                        :                                                         709.50
+-------------------------------------------------------------------------------------------------------------------------
+
+ Sales and Service Tax (SST)                   :                                                         42.57
+-------------------------------------------------------------------------------------------------------------------------
+
+ Subtotal                                      :                                                         752.07
+-------------------------------------------------------------------------------------------------------------------------
+
+ Malaysia Railways e-Wallet Balance (BEFORE)   :                                                         700.00
+-------------------------------------------------------------------------------------------------------------------------
+ 
+                                                         Oops!                                                             
+                              It appears that you don't have enough balance in your e-Wallet.                              
+                                               Payment will be cancelled.    
